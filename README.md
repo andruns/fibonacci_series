@@ -1,6 +1,6 @@
 # FibonacciSeries
 
-TODO: Write a gem description
+This is Fibonacci Series program.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+require 'fibonacci_series'
+FibonacciSeries.at(10)
+
 
 ## Contributing
 
